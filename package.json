@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-medallia",
+  "version": "1.0.0",
+  "description": "cordova plugin for medallia",
+  "cordova": {
+    "id": "cordova-plugin-medallia",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "lx",
+  "license": "MIT"
+}
