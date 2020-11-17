@@ -2,6 +2,14 @@
   "name": "cordova-plugin-medallia",
   "version": "1.0.0",
   "description": "cordova plugin for medallia",
+  "main": "www/Medallia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HereWeR/cordova-plugin-medallia.git"
+  },
   "cordova": {
     "id": "cordova-plugin-medallia",
     "platforms": [
@@ -12,8 +20,14 @@
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios"
+    "cordova-ios",
+    "medallia",
+    "cordova"
   ],
   "author": "lx",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HereWeR/cordova-plugin-medallia/issues"
+  },
+  "homepage": "https://github.com/HereWeR/cordova-plugin-medallia#readme"
 }
