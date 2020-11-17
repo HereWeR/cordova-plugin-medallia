@@ -1,7 +1,7 @@
 # cordova-plugin-medallia
 cordova plugin for medallia
 
-## iOS
+## iOS(CocoaPods)
 - Add sdk to Podfile
 
 ```shell script
