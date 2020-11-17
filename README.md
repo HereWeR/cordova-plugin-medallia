@@ -2,7 +2,7 @@
 cordova plugin for medallia
 
 ## iOS
-#### 1. Add sdk to Podfile
+- Add sdk to Podfile
 
 ```shell script
 source 'https://cdn.cocoapods.org/'
@@ -15,17 +15,17 @@ target 'ProjectName' do
 end
 ```
 
-#### 2. cordova plugin add cordova-plugin-medallia
-
-#### then run
+- then run
 
 ```sh
 $ pod install
 ```
 
+- cordova plugin add cordova-plugin-medallia
+
 ## Android(Maven)
 
-#### 1. android/build.gradle
+- android/build.gradle
 ```shell script
 allprojects {
     repositories {
@@ -36,7 +36,7 @@ allprojects {
     }
 }
 ```
-#### 2. app/src/build.gradle
+- app/src/build.gradle
 
 ```shell script
 dependencies {
@@ -45,7 +45,7 @@ dependencies {
 }
 ```
 
-#### 3. cordova plugin add cordova-plugin-medallia
+- cordova plugin add cordova-plugin-medallia
 
 ## Usage
 
