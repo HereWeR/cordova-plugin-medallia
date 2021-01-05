@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-medallia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cordova plugin for medallia",
   "main": "www/Medallia.js",
   "scripts": {

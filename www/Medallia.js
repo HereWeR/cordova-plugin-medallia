@@ -9,3 +9,9 @@ exports.showForm = function (arg0, success, error) {
 exports.updateCustomLocale = function (arg0, success, error) {
     exec(success, error, 'Medallia', 'updateCustomLocale', [arg0]);
 };
+exports.setCustomParameters = function (arg0, success, error) {
+    exec(success, error, 'Medallia', 'setCustomParameters', [arg0]);
+};
+exports.revertStopSDK = function (arg0, success, error) {
+    exec(success, error, 'Medallia', 'revertStopSDK', [arg0]);
+};

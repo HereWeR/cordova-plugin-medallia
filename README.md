@@ -53,4 +53,5 @@ dependencies {
 cordova.plugins.Medallia.sdkInit("SDK_API_TOKEN");
 cordova.plugins.Medallia.updateCustomLocale("LOCALE");
 cordova.plugins.Medallia.showForm("FORM_ID");
+cordova.plugins.Medallia.setCustomParameters({"key": "value", "key2": true, "key3": 1});
 ```
